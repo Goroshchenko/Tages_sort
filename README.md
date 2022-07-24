@@ -1,2 +1,4 @@
-# Tages_sort
-This is the best solution for sorting in Node.js
+Нужный алгоритм сортировки укажите в файле "sort.sh"
+Файл, подлежащий сортировке, сохраните в директории программы под именем input.txt
+Запустите app.js
+Результат будет доступен в файле output.txt
